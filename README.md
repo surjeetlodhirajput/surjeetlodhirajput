@@ -2,11 +2,11 @@
 
 ## 🚀 Software Engineer | Fullstack Developer | 
 
-I am a passionate software engineer specializing in building scalable and efficient web applications, microservices, and cloud-based systems. My expertise spans across modern web technologies, microservices architecture, and real-time communication solutions using WebRTC. With a strong focus on performance optimization and system reliability, I love creating high-impact solutions for businesses.
+I am a passionate software engineer specializing in building scalable and efficient web applications, microservices, and cloud-based systems. My expertise spans across modern web technologies, microservices & microfrontend architecture, and real-time communication solutions using WebRTC. With a strong focus on performance optimization and system reliability, I love creating high-impact solutions for businesses.
 
 - 🔭 Currently working as a Software Engineer at **Fareportal**
 - 🌱 Exploring new technologies like **WebRTC**, **Kafka**, **VOIP Calling** and **Azure**
-- ⚡ Fun fact: I enjoy solving complex problems and playing with different technologies.
+- ⚡ Fun fact: I enjoy solving complex problems and playing with technologies to fomulate meaningful solutions.
 ---
 ### 🛠️ Tech Stack & Skills
 - **Languages:** C\#, C++, C, JavaScript (ES6+), TypeScript, SQL, Python
