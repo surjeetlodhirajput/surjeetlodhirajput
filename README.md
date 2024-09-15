@@ -1,6 +1,6 @@
 # Hi, I'm Surjeet Lodhi 👋
 
-## 🚀 Software Engineer | Fullstack Developer | 
+## 🚀 Software Engineer | Fullstack Developer | Crafting seamless user interfaces and robust back-end architectures
 
 I am a passionate software engineer specializing in building scalable and efficient web applications, microservices, and cloud-based systems. My expertise spans across modern web technologies, microservices & microfrontend architecture, and real-time communication solutions using WebRTC. With a strong focus on performance optimization and system reliability, I love creating high-impact solutions for businesses.
 
