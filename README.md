@@ -28,8 +28,8 @@ I am a passionate software engineer specializing in building scalable and effici
 ---
 
 ### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surjeetlodhirajput&langs_count=8&&layout=donut)](https://github.com/surjeetlodhirajput)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surjeetlodhirajput&langs_count=8&&layout=compact)](https://github.com/surjeetlodhirajput)
+[![Surjeet's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=surjeetlodhirajput)](https://github.com/surjeetlodhirajput/github-readme-stats)
 ---
 
 ### 📫 Let's Connect!
