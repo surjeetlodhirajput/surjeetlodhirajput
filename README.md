@@ -28,7 +28,7 @@ I am a passionate software engineer specializing in building scalable and effici
 ---
 
 ### 📈 GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surjeetlodhirajput&layout=compact)](https://github.com/surjeetlodhirajput)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surjeetlodhirajput&langs_count=8&&layout=donut)](https://github.com/surjeetlodhirajput)
 
 ---
 
